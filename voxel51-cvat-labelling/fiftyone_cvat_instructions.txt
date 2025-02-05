@@ -1,0 +1,43 @@
+Steps for using FiftyOne's integration with CVAT (Computer Vision Annotation Tool) for labelling lesions
+
+0. Before starting, you'll need to gather your groups designated images into a folder somewhere on your computer 
+
+1. Navigate to a command line interpreter (like cmd on windows, or terminal on mac)
+
+2. Run - "pip install fiftyone" (can take 10-15 minutes so give it time)
+
+3. Check if it's installed properly by running the following two chunks seperately:
+
+	-  python
+	
+
+	-  import fiftyone as fo
+	   import fiftyone.zoo as foz
+
+	   dataset = foz.load_zoo_dataset("quickstart")
+	   session = fo.launch_app(dataset)
+
+4. You can mess around with the buttons in the opened tab in your browser and experiment
+
+5. Go to https://app.cvat.ai/auth/register and create an account, you'll need the username and password for the next step
+
+5. Run the python script I have linked in the repository named "fiftyone_cvat" after changing the directory to where your groups designated images are located 
+   To do this, just write "python scriptname.py" in the terminal/cmd after navigating to where it is located (cd Downloads etc...). 
+
+6. Label the images (each member must label all the images themselves following this process). See tagannotation.png in the repository for the best way to do this - remember 0 is no hair, and 2 is a lot of hair
+
+7. Save your annotations in the top left, and export the job dataset from the menu button. Make sure the format is "CVAT for images 1.1", and feel free to name the labelled dataset (labelleddataset.png)
+
+8. Click "ok", then navigate to "requests" at the top of the screen or "here" in the briefly shown pop up
+
+8.5 (Optional) Back in the terminal, you can click enter to open the fiftyone dataset for your images, where you can see your labels corresponding (hopefully) to the images you assigned them to, you can then filter them by 1/2/3 to view what the different labelled images look like 
+
+9. Download using the dots on the side to somewhere simple or memorable
+
+10. Now run the second python script (xml_to_csv), the same way as the first one was ran, and enter your annotator number (can be any of the three, just make sure you don't have the same number as your group members)
+
+11. Find the new file that has been created (in the same folder as the python file you just ran) and open it
+
+12. Now you can combine all of your groups annotations just by copy and pasting each members annotations into this csv file 
+
+13. Realise that you just did a whole lot of complicated steps to accomplish something very simple
