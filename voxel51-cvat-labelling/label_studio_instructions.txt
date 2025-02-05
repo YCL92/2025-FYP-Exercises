@@ -1,0 +1,10 @@
+https://labelstud.io/guide/quick_start
+
+<View>
+  <Image name="image" value="$image"/>
+  <Choices name="label" toName="image">
+    <Choice value="0"/>
+    <Choice value="1"/>
+    <Choice value="2"/>
+  </Choices>
+</View>
