@@ -13,6 +13,8 @@
 ### Optional: voxel51 demo for annotation tasks
 [Tutorial](https://github.com/YCL92/2025-FYP-Exercises/tree/main/02_voxel51_tutorial)
 
-
 ## Week 3: Annotation exercises
 [Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/03_annotation)
+
+## Week 4: Images and Features
+[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/04_images_and_features)
