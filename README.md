@@ -18,3 +18,6 @@
 
 ## Week 4: Images and Features
 [Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/04_images_and_features)
+
+## Week 5: Features and Classifiers
+[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/05_features_and_classifiers)
