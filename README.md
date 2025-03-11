@@ -22,5 +22,8 @@
 ## Week 5: Features and Classifiers
 [Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/05_features_and_classifiers)
 
-## Week 6: Segmentation
+## Week 6: Segmentation 1
 [Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/06_segmentation_1)
+
+## Week 7: Segmentation 2
+[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/07_segmentation_2)
