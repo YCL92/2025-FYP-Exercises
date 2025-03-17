@@ -20,13 +20,13 @@
 [Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/04_images_and_features)
 
 ## Week 5: Features and Classifiers
-[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/05_features_and_classifiers)
+[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/05_features_and_classifiers)
 
 ## Week 6: Segmentation 1
-[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/06_segmentation_1)
+[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/06_segmentation_1)
 
 ## Week 7: Segmentation 2
-[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/07_segmentation_2)
+[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/07_segmentation_2)
 
 ## Week 8: Classifiers and evaluation
-[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/08_classifiers_and_evaluation)
+[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/08_classifiers_and_evaluation)
