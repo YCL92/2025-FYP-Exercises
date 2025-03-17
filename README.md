@@ -27,3 +27,6 @@
 
 ## Week 7: Segmentation 2
 [Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/07_segmentation_2)
+
+## Week 8: Classifiers and evaluation
+[Exercises](https://github.comYCL92/2025-FYP-Exercises/tree/main/08_classifiers_and_evaluation)
