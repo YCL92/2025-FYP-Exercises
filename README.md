@@ -1,32 +1,35 @@
 # Projects in Data Science - Exercises Repo
 
 ## Week 1: Intro to git and github
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/01_github)
+Exercises: [Github notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/01_github/github.ipynb)
 
 #### Helpful resources:
 - [Software Carpentry](https://swcarpentry.github.io/git-novice/)
 - [Missing Semester](https://missing.csail.mit.edu/) (Also useful for other things, such as command line and vim)
 
 ## Week 2: Image processing
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/02_image_processing)
+Exercises: [Image processing notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/02_image_processing/Exercise-week_2.ipynb)
 
 ### Optional: voxel51 demo for annotation tasks
 [Tutorial](https://github.com/YCL92/2025-FYP-Exercises/tree/main/02_voxel51_tutorial)
 
 ## Week 3: Annotation exercises
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/03_annotation)
+Exercises: [Annotation notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/03_annotation/annotation_exercise.ipynb)
 
 ## Week 4: Images and Features
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/04_images_and_features)
+Exercises: [Images and features notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/04_images_and_features/FYP_2025_more_images.ipynb)
 
 ## Week 5: Features and Classifiers
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/05_features_and_classifiers)
+Exercises: [Features and classifiers notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/05_features_and_classifiers/features_classifiers.ipynb)
 
 ## Week 6: Segmentation 1
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/06_segmentation_1)
+Exercises: [Segmentation 1 notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/06_segmentation_1/Exercise-week_9.ipynb)
 
 ## Week 7: Segmentation 2
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/07_segmentation_2)
+Exercises: [Segmentation 2 notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/07_segmentation_2/Exercise-week_10.ipynb)
 
 ## Week 8: Classifiers and evaluation
-[Exercises](https://github.com/YCL92/2025-FYP-Exercises/tree/main/08_classifiers_and_evaluation)
+Exercises: [Classifiers and evaluation notebook](https://github.com/YCL92/2025-FYP-Exercises/blob/main/08_classifiers_and_evaluation/FYP_2025_classifiers_evaluation.ipynb)
+
+### Optional: green dice are biased
+[p-hacking demo](https://github.com/YCL92/2025-FYP-Exercises/blob/main/08_classifiers_and_evaluation/optional_p-hacking_with_sols.ipynb)
