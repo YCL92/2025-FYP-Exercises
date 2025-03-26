@@ -52,3 +52,8 @@ Exercises: [Coursera Writing Course](https://www.coursera.org/learn/sciwrite#mod
 Very useful: Modules 1, 2
 
 Also useful: Modules 3, 4, 5
+
+Other tips: 
+
+- Can you add 'by zombies' after the verb in the sentence? If so, it's likely in the passive voice and can be re-written.
+- Read the first sentence in each paragraph, does it still make sense
