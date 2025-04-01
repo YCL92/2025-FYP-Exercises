@@ -57,3 +57,7 @@ Other tips:
 
 - Can you add 'by zombies' after the verb in the sentence? If so, it's likely in the passive voice and can be re-written.
 - Read the first sentence in each paragraph, does it still make sense
+
+## Week 10: Logistic Regression
+
+Exercises: [Logistic Regression](https://github.com/YCL92/2025-FYP-Exercises/blob/main/10_logistic_regression/Exercise-week_13.ipynb)
