@@ -61,3 +61,10 @@ Other tips:
 ## Week 10: Logistic Regression
 
 Exercises: [Logistic Regression](https://github.com/YCL92/2025-FYP-Exercises/blob/main/10_logistic_regression/Exercise-week_13.ipynb)
+
+## Week 11: Group work and Exam Demo
+
+TA's will demonstrate the exam procedure. This will be a presentation, followed by an oral exam.
+
+Afterwards, you can ask questions, and continue to work on your own exam projects.
+
