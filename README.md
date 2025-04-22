@@ -53,10 +53,10 @@ Very useful: Modules 1, 2
 
 Also useful: Modules 3, 4, 5
 
-Other tips: 
+Other tips:
 
 - Can you add 'by zombies' after the verb in the sentence? If so, it's likely in the passive voice and can be re-written.
-- Read the first sentence in each paragraph, does it still make sense
+- Read the first sentence only in each paragraph, does your report still make sense
 
 ## Week 10: Logistic Regression
 
@@ -64,7 +64,14 @@ Exercises: [Logistic Regression](https://github.com/YCL92/2025-FYP-Exercises/blo
 
 ## Week 11: Group work and Exam Demo
 
-TA's will demonstrate the exam procedure. This will be a presentation, followed by an oral exam.
+TAs will demonstrate the exam procedure. This will be a presentation, followed by an oral exam.
 
 Afterwards, you can ask questions, and continue to work on your own exam projects.
 
+## Week 12: Solving Common Problems
+
+Work on your projects this week :)
+
+[Optional Exercises](https://github.com/YCL92/2025-FYP-Exercises/blob/main/12_solving_common_problems)
+
+If you would like a feedback slot next week, you need to hand in one page from your report today.
